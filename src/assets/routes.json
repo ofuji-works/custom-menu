@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/notice",
+    "component": {
+      "template": "<div>お知らせ</div>"
+    }
+  },
+  {
+    "path": "/dashboard",
+    "component": {
+      "template": "<div>ダッシュボード</div>"
+    }
+  },
+  {
+    "path": "/account",
+    "component": {
+      "template": "<div>アカウント</div>"
+    }
+  }
+]

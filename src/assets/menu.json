@@ -1,0 +1,14 @@
+[
+  {
+    "label": "お知らせ",
+    "path": "/notice"
+  },
+  {
+    "label": "ダッシュボード",
+    "path": "/dashboard"
+  },
+  {
+    "label": "アカウント",
+    "path": "/account"
+  }
+]
